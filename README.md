@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**imedsaoud/imedsaoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Imed, a 24 yeard old passionate developer from France !
+First year master degree at HETIC
+Looking for an internship from october 2021 to october 2022/2023
 
-Here are some ideas to get you started:
+## 💻 I’m currently working on 
+- Factonics AI Business Platform (MEAN/PEAN stack)
+- Hadjime dem quote platform (MEAN Stack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌈 My latest project
+
+- Hadjime dem quote generator (MEAN Stack)
+- UX/UI Designer Portfolio (Strapi | Angular 10)
+- Krowme (Symfony5 | React)
+- AdHere (Symfony5 | React)
+
+## 🌱 I’m currently learning 
+
+- Golang
+- Docker
+- Advanced TypeScript
+- React
+
+## 📫 How to reach me 
+
+- Mail: contact.imedsa@gmail.com
+- Linkedin: https://www.linkedin.com/in/imedsaoud/ 
+- Portfolio: Update in progress 
+
+
