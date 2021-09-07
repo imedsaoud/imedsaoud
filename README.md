@@ -2,11 +2,11 @@
 
 My name is Imed, a 24 yeard old passionate developer from France !
 First year master degree at HETIC
-Looking for an apprenticeship from october 2021 to october 2022/2023
+Looking for an apprenticeship from november 2021 to november 2022/2023
 
 ## 💻 I’m currently working on 
 - Factonics AI Business Platform (MEAN/PEAN stack)
-- Hadjime dem quote platform (MEAN Stack)
+- Hadjime dem management platform (MEAN Stack)
 
 ## 🌈 My latest project
 
@@ -26,6 +26,6 @@ Looking for an apprenticeship from october 2021 to october 2022/2023
 
 - Mail: contact.imedsa@gmail.com
 - Linkedin: https://www.linkedin.com/in/imedsaoud/ 
-- Portfolio: Update in progress 
+- Portfolio: https://imed-saoud.netlify.app/ 
 
 
